@@ -9,5 +9,5 @@ public class Main {
         logger.close(); // close the logger
     }
 
-    // added comment
+    // added comment 2
 }
