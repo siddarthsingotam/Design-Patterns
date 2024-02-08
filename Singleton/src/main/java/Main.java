@@ -8,4 +8,6 @@ public class Main {
         logger.write("Simulation finished");
         logger.close(); // close the logger
     }
+
+    // added comment
 }
