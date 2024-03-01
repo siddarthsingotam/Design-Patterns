@@ -12,6 +12,7 @@
         <module>FactoryMethod</module>
         <module>ObserverMethod</module>
         <module>Singleton</module>
+        <module>State</module>
     </modules>
 
     <properties>
