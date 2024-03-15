@@ -6,10 +6,13 @@ public class Main {
 //        printer = new BasicPrinter();
 //        printer.print("Hello Sid!");
 
-        // let basic printer now use file name
-        printer = new FilePrinter(new BasicPrinter());
-        printer.print("Hello Sid2!");
+//        // let basic printer now use file name
+//        printer = new CapitalizePrinter(new FilePrinter(new BasicPrinter()));
+//        printer.print("Hello Sid2!");
 
+        // Using encryption print
+        printer = new EncryptedPrinter(new FilePrinter(new BasicPrinter()));
+        printer.print("Hello Sid2!");
 
     }
 }
