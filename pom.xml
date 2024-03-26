@@ -16,6 +16,7 @@
         <module>Decorator</module>
         <module>ChainOfResponsibility</module>
         <module>Memento</module>
+        <module>Memento/untitled</module>
     </modules>
 
     <properties>
