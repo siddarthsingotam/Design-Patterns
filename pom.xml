@@ -12,7 +12,6 @@
         <module>FactoryMethod</module>
         <module>ObserverMethod</module>
         <module>Singleton</module>
-        <module>State</module>
         <module>Stratergy</module>
         <module>Decorator</module>
         <module>ChainOfResponsibility</module>
