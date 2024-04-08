@@ -19,6 +19,7 @@
         <module>Memento/untitled</module>
         <module>Proxy</module>
         <module>Visitor</module>
+        <module>Builder</module>
     </modules>
 
     <properties>
