@@ -20,6 +20,7 @@
         <module>Proxy</module>
         <module>Visitor</module>
         <module>Builder</module>
+        <module>Adapter</module>
     </modules>
 
     <properties>
