@@ -23,6 +23,7 @@
         <module>Adapter</module>
         <module>Bridge</module>
         <module>Prototype</module>
+        <module>Flyweight1</module>
     </modules>
 
     <properties>
