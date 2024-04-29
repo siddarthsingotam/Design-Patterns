@@ -25,6 +25,7 @@
         <module>Prototype</module>
         <module>Flyweight1</module>
         <module>Iterator</module>
+        <module>Facade</module>
     </modules>
 
     <properties>
