@@ -26,6 +26,7 @@
         <module>Flyweight1</module>
         <module>Iterator</module>
         <module>Facade</module>
+        <module>Mediator</module>
     </modules>
 
     <properties>

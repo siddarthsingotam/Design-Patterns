@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" spacing="10.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ChatClientController">
+    <TextArea fx:id="chatArea" VBox.vgrow="ALWAYS" prefHeight="200.0" prefWidth="200.0"/>
+    <HBox alignment="CENTER_LEFT">
+        <TextField fx:id="messageField" HBox.hgrow="ALWAYS" prefWidth="200.0" promptText="Type your message"/>
+        <ComboBox fx:id="recipientBox" prefWidth="100.0"/>
+        <Button fx:id="sendButton" text="Send" onAction="#handleSendButton"/>
+    </HBox>
+</VBox>
+
