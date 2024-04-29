@@ -24,6 +24,7 @@
         <module>Bridge</module>
         <module>Prototype</module>
         <module>Flyweight1</module>
+        <module>Iterator</module>
     </modules>
 
     <properties>
